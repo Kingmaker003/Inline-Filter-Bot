@@ -14,10 +14,10 @@
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/CodeXBotz/Inline-Filter-Bot/stargazers">
+  <a href="https://github.com/Kingmaker003/Inline-Filter-Bot/stargazers">
     <img src="https://img.shields.io/github/stars/CodeXBotz/Inline-Filter-Bot?style=social">
   </a>
-  <a href="https://github.com/CodeXBotz/Inline-Filter-Bot/fork">
+  <a href="https://github.com/Kingmaker003/Inline-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/CodeXBotz/Inline-Filter-Bot?label=Fork&style=social">
   </a>  
 </p>
